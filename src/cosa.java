@@ -7,6 +7,7 @@ public class cosa {
 		System.out.println("Hola");
 		System.out.println("Ho");
 		System.out.println("TODOS");
+		System.out.println("chorizo");
 	}
 
 }
